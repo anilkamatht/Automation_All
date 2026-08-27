@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+results/
+report.html
+log.html
+output.xml
+geckodriver*.log
+selenium-screenshot-*.png
