@@ -8,6 +8,8 @@ RegTest
 
         open browser    https://demowebshop.tricentis.com/register  chrome
         maximize browser window
+        ${time}=  Get Selenium Timeout
+        Log To Console    ${time}
         Set Selenium Timeout    10
         Wait Until Page Contains    Registeration    # 5 seconds
         select radio button    Gender   M
