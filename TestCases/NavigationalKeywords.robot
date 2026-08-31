@@ -23,6 +23,10 @@ NavigationTest
     Log To Console    ${loc}
 
     Sleep  3
+
+
+
+
     
 
 
