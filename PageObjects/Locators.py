@@ -21,3 +21,9 @@ File_upload="xpath:/html/body/div/div/div/a[8]"
 #Keyboard and Mouse Input
 Full_Name="id:name"
 button_test="id:button"
+
+#Drag and Drop
+Source="xpath://*[@id='image']/img"
+Destination="xpath://*[@id='box']"
+
+
