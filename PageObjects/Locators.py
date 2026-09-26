@@ -18,3 +18,6 @@ drop_down="xpath:/html/body/div/div/li[6]/a"
 dropdown_button="id:dropdownMenuButton"
 File_upload="xpath:/html/body/div/div/div/a[8]"
 
+#Keyboard and Mouse Input
+Full_Name="id:name"
+button_test="id:button"
