@@ -1,4 +1,4 @@
-#Login Page Elements
+#WebForm Page Elements
 first_name="id:first-name"
 last_name="id:last-name"
 job_title="id:job-title"
@@ -12,3 +12,9 @@ experience="id:select-menu"
 date="id:datepicker"
 #submit="css:.btn.btn-lg.btn-primary"
 submit="css:a.btn.btn-lg.btn-primary"
+
+#Drop-down page Elements
+drop_down="xpath:/html/body/div/div/li[6]/a"
+dropdown_button="id:dropdownMenuButton"
+File_upload="xpath:/html/body/div/div/div/a[8]"
+
