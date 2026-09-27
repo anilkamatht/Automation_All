@@ -10,6 +10,7 @@ ScrollingTest
     Execute Javascript  window.scrollTo(0,document.body.scrollHeight)  #end of the page
 
     sleep  5
-    Execute Javascript  window.scrollTo(0,-document.body.scrollHeight)  # begin of the page
+
+   Execute Javascript  window.scrollTo(0,-document.body.scrollHeight)  # begin of the page
     sleep  2
     
