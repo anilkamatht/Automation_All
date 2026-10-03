@@ -1,0 +1,16 @@
+--suite TestCases.POM
+--variable CALLER_ID:8cf7ec9a387d4fceb790f74e04c838ea
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:1
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:13
+--variable PABOTLASTLEVEL:TestCases.POM
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\13
+--consolecolors off
+--consolemarkers off
+TestCases\

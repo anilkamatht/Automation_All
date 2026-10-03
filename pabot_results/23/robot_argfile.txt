@@ -1,0 +1,16 @@
+--suite TestCases.Webform
+--variable CALLER_ID:26e3f6360a4f4e9085a3d99addbd620d
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:1
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:23
+--variable PABOTLASTLEVEL:
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\23
+--consolecolors off
+--consolemarkers off
+TestCases\

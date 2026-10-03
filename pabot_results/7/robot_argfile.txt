@@ -1,0 +1,16 @@
+--suite TestCases.GetAllLinks
+--variable CALLER_ID:48e6ae07dfc349b48926e26c16c2df8c
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:1
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:7
+--variable PABOTLASTLEVEL:TestCases.GetAllLinks
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\7
+--consolecolors off
+--consolemarkers off
+TestCases\

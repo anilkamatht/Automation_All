@@ -1,0 +1,16 @@
+--suite TestCases.TC2
+--variable CALLER_ID:eb6060cac3b34a45b4ed0d89ed23fb33
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:20
+--variable PABOTLASTLEVEL:TestCases.TC2
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\20
+--consolecolors off
+--consolemarkers off
+TestCases\

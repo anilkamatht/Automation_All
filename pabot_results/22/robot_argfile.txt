@@ -1,0 +1,16 @@
+--suite TestCases.Timeouttests
+--variable CALLER_ID:fce59e5581c649e0aeabb8cb196443aa
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:1
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:22
+--variable PABOTLASTLEVEL:TestCases.Timeouttests
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\22
+--consolecolors off
+--consolemarkers off
+TestCases\

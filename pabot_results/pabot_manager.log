@@ -1,0 +1,100 @@
+[INFO]    Initialized logging in .\pabot_results
+[INFO]    Robot Framework remote server at 127.0.0.1:8270 started.
+[DEBUG]   2026-10-03 11:09:22.752526 [PID:8940] [0] [ID:0] EXECUTING TestCases.CaptureScreen
+[DEBUG]   2026-10-03 11:09:22.755522 [PID:8632] [1] [ID:1] EXECUTING TestCases.CloseAll
+[DEBUG]   2026-10-03 11:09:22.757514 [PID:5036] [2] [ID:2] EXECUTING TestCases.Draganddrop
+[DEBUG]   2026-10-03 11:09:28.744083 [PID:8940] [0] [ID:0] still running TestCases.CaptureScreen after 5.0s
+[DEBUG]   2026-10-03 11:09:28.744083 [PID:8632] [1] [ID:1] still running TestCases.CloseAll after 5.0s
+[DEBUG]   2026-10-03 11:09:28.745079 [PID:5036] [2] [ID:2] still running TestCases.Draganddrop after 5.0s
+[INFO]    2026-10-03 11:09:33.976938 [PID:5036] [2] [ID:2] PASSED TestCases.Draganddrop in 11.2 seconds
+[DEBUG]   2026-10-03 11:09:33.984363 [PID:13492] [0] [ID:3] EXECUTING TestCases.Dropdownbutton
+[INFO]    2026-10-03 11:09:34.151728 [PID:8940] [0] [ID:0] PASSED TestCases.CaptureScreen in 11.4 seconds
+[DEBUG]   2026-10-03 11:09:34.160692 [PID:5192] [1] [ID:4] EXECUTING TestCases.Dropdownbutton1
+[DEBUG]   2026-10-03 11:09:39.345590 [PID:13492] [0] [ID:3] still running TestCases.Dropdownbutton after 5.0s
+[DEBUG]   2026-10-03 11:09:39.546404 [PID:5192] [1] [ID:4] still running TestCases.Dropdownbutton1 after 5.0s
+[DEBUG]   2026-10-03 11:09:39.546404 [PID:8632] [1] [ID:1] still running TestCases.CloseAll after 15.0s
+[INFO]    2026-10-03 11:09:44.714214 [PID:8632] [1] [ID:1] PASSED TestCases.CloseAll in 22.0 seconds
+[DEBUG]   2026-10-03 11:09:44.722701 [PID:3088] [2] [ID:5] EXECUTING TestCases.Dropdowns
+[INFO]    2026-10-03 11:09:46.359551 [PID:13492] [0] [ID:3] PASSED TestCases.Dropdownbutton in 12.4 seconds
+[DEBUG]   2026-10-03 11:09:46.367535 [PID:13340] [0] [ID:6] EXECUTING TestCases.ForLoopDemo
+[INFO]    2026-10-03 11:09:47.984449 [PID:13340] [0] [ID:6] PASSED TestCases.ForLoopDemo in 1.6 seconds
+[DEBUG]   2026-10-03 11:09:47.996417 [PID:15768] [1] [ID:7] EXECUTING TestCases.GetAllLinks
+[INFO]    2026-10-03 11:09:48.752422 [PID:5192] [1] [ID:4] PASSED TestCases.Dropdownbutton1 in 14.6 seconds
+[DEBUG]   2026-10-03 11:09:48.771370 [PID:16152] [2] [ID:8] EXECUTING TestCases.Implicitwait
+[DEBUG]   2026-10-03 11:09:50.213996 [PID:3088] [2] [ID:5] still running TestCases.Dropdowns after 5.0s
+[DEBUG]   2026-10-03 11:09:53.475394 [PID:15768] [1] [ID:7] still running TestCases.GetAllLinks after 5.0s
+[DEBUG]   2026-10-03 11:09:54.280876 [PID:16152] [2] [ID:8] still running TestCases.Implicitwait after 5.0s
+[INFO]    2026-10-03 11:09:57.324018 [PID:15768] [1] [ID:7] PASSED TestCases.GetAllLinks in 9.3 seconds
+[DEBUG]   2026-10-03 11:09:57.331999 [PID:13004] [0] [ID:9] EXECUTING TestCases.Inputbox
+[INFO]    2026-10-03 11:09:57.940771 [PID:3088] [2] [ID:5] PASSED TestCases.Dropdowns in 13.2 seconds
+[DEBUG]   2026-10-03 11:09:57.948753 [PID:15720] [1] [ID:10] EXECUTING TestCases.Keyboardandmouseinput
+[INFO]    2026-10-03 11:10:02.595613 [PID:16152] [2] [ID:8] PASSED TestCases.Implicitwait in 13.7 seconds
+[DEBUG]   2026-10-03 11:10:02.619086 [PID:12160] [2] [ID:11] EXECUTING TestCases.MouseOperations
+[DEBUG]   2026-10-03 11:10:03.638810 [PID:13004] [0] [ID:9] still running TestCases.Inputbox after 5.0s
+[DEBUG]   2026-10-03 11:10:04.260771 [PID:15720] [1] [ID:10] still running TestCases.Keyboardandmouseinput after 5.0s
+[DEBUG]   2026-10-03 11:10:08.392421 [PID:12160] [2] [ID:11] still running TestCases.MouseOperations after 5.0s
+[INFO]    2026-10-03 11:10:11.258904 [PID:15720] [1] [ID:10] PASSED TestCases.Keyboardandmouseinput in 13.3 seconds
+[DEBUG]   2026-10-03 11:10:11.285970 [PID:16052] [0] [ID:12] EXECUTING TestCases.NavigationalKeywords
+[DEBUG]   2026-10-03 11:10:14.461760 [PID:13004] [0] [ID:9] still running TestCases.Inputbox after 15.0s
+[DEBUG]   2026-10-03 11:10:16.627397 [PID:16052] [0] [ID:12] still running TestCases.NavigationalKeywords after 5.0s
+[DEBUG]   2026-10-03 11:10:18.915229 [PID:12160] [2] [ID:11] still running TestCases.MouseOperations after 15.0s
+[INFO]    2026-10-03 11:10:19.630448 [PID:13004] [0] [ID:9] PASSED TestCases.Inputbox in 22.3 seconds
+[DEBUG]   2026-10-03 11:10:19.640972 [PID:13400] [1] [ID:13] EXECUTING TestCases.POM
+[DEBUG]   2026-10-03 11:10:24.827333 [PID:13400] [1] [ID:13] still running TestCases.POM after 5.0s
+[DEBUG]   2026-10-03 11:10:27.075781 [PID:16052] [0] [ID:12] still running TestCases.NavigationalKeywords after 15.0s
+[INFO]    2026-10-03 11:10:31.107385 [PID:16052] [0] [ID:12] PASSED TestCases.NavigationalKeywords in 19.8 seconds
+[DEBUG]   2026-10-03 11:10:31.121473 [PID:432] [2] [ID:14] EXECUTING TestCases.Radiobuttons
+[DEBUG]   2026-10-03 11:10:34.505813 [PID:12160] [2] [ID:11] still running TestCases.MouseOperations after 30.0s
+[INFO]    2026-10-03 11:10:34.757134 [PID:12160] [2] [ID:11] PASSED TestCases.MouseOperations in 32.2 seconds
+[DEBUG]   2026-10-03 11:10:34.765111 [PID:5096] [0] [ID:15] EXECUTING TestCases.Registration
+[INFO]    2026-10-03 11:10:34.956206 [PID:13400] [1] [ID:13] PASSED TestCases.POM in 15.3 seconds
+[DEBUG]   2026-10-03 11:10:34.964192 [PID:1124] [1] [ID:16] EXECUTING TestCases.Regpom
+[DEBUG]   2026-10-03 11:10:36.581417 [PID:432] [2] [ID:14] still running TestCases.Radiobuttons after 5.0s
+[DEBUG]   2026-10-03 11:10:40.971929 [PID:5096] [0] [ID:15] still running TestCases.Registration after 5.0s
+[DEBUG]   2026-10-03 11:10:41.172866 [PID:1124] [1] [ID:16] still running TestCases.Regpom after 5.0s
+[DEBUG]   2026-10-03 11:10:47.896342 [PID:432] [2] [ID:14] still running TestCases.Radiobuttons after 15.0s
+[DEBUG]   2026-10-03 11:10:51.201778 [PID:5096] [0] [ID:15] still running TestCases.Registration after 15.0s
+[DEBUG]   2026-10-03 11:10:51.369984 [PID:1124] [1] [ID:16] still running TestCases.Regpom after 15.0s
+[INFO]    2026-10-03 11:10:52.009596 [PID:432] [2] [ID:14] PASSED TestCases.Radiobuttons in 20.9 seconds
+[DEBUG]   2026-10-03 11:10:52.019130 [PID:11960] [2] [ID:17] EXECUTING TestCases.ScrollingPage
+[INFO]    2026-10-03 11:10:55.293074 [PID:5096] [0] [ID:15] PASSED TestCases.Registration in 20.5 seconds
+[DEBUG]   2026-10-03 11:10:55.304048 [PID:4328] [0] [ID:18] EXECUTING TestCases.SpeedTests
+[DEBUG]   2026-10-03 11:10:57.188407 [PID:11960] [2] [ID:17] still running TestCases.ScrollingPage after 5.0s
+[INFO]    2026-10-03 11:10:58.811021 [PID:1124] [1] [ID:16] PASSED TestCases.Regpom in 23.8 seconds
+[DEBUG]   2026-10-03 11:10:58.819550 [PID:13712] [1] [ID:19] EXECUTING TestCases.TC1
+[DEBUG]   2026-10-03 11:11:00.615682 [PID:4328] [0] [ID:18] still running TestCases.SpeedTests after 5.0s
+[DEBUG]   2026-10-03 11:11:03.866452 [PID:13712] [1] [ID:19] still running TestCases.TC1 after 5.0s
+[DEBUG]   2026-10-03 11:11:07.581571 [PID:11960] [2] [ID:17] still running TestCases.ScrollingPage after 15.0s
+[INFO]    2026-10-03 11:11:08.191159 [PID:11960] [2] [ID:17] PASSED TestCases.ScrollingPage in 16.2 seconds
+[DEBUG]   2026-10-03 11:11:08.213149 [PID:14136] [2] [ID:20] EXECUTING TestCases.TC2
+[DEBUG]   2026-10-03 11:11:11.297731 [PID:4328] [0] [ID:18] still running TestCases.SpeedTests after 15.0s
+[DEBUG]   2026-10-03 11:11:13.707944 [PID:14136] [2] [ID:20] still running TestCases.TC2 after 5.0s
+[DEBUG]   2026-10-03 11:11:14.511454 [PID:13712] [1] [ID:19] still running TestCases.TC1 after 15.0s
+[INFO]    2026-10-03 11:11:21.777025 [PID:13712] [1] [ID:19] PASSED TestCases.TC1 in 23.0 seconds
+[DEBUG]   2026-10-03 11:11:21.795021 [PID:11960] [0] [ID:21] EXECUTING TestCases.Test
+[DEBUG]   2026-10-03 11:11:23.782155 [PID:14136] [2] [ID:20] still running TestCases.TC2 after 15.0s
+[DEBUG]   2026-10-03 11:11:26.490822 [PID:4328] [0] [ID:18] still running TestCases.SpeedTests after 30.0s
+[DEBUG]   2026-10-03 11:11:26.995837 [PID:11960] [0] [ID:21] still running TestCases.Test after 5.0s
+[DEBUG]   2026-10-03 11:11:37.459079 [PID:11960] [0] [ID:21] still running TestCases.Test after 15.0s
+[DEBUG]   2026-10-03 11:11:39.367282 [PID:14136] [2] [ID:20] still running TestCases.TC2 after 30.0s
+[INFO]    2026-10-03 11:11:40.629423 [PID:14136] [2] [ID:20] PASSED TestCases.TC2 in 32.4 seconds
+[DEBUG]   2026-10-03 11:11:40.638964 [PID:11248] [1] [ID:22] EXECUTING TestCases.Timeouttests
+[INFO]    2026-10-03 11:11:42.035516 [PID:4328] [0] [ID:18] PASSED TestCases.SpeedTests in 46.7 seconds
+[DEBUG]   2026-10-03 11:11:42.044491 [PID:11728] [2] [ID:23] EXECUTING TestCases.Webform
+[DEBUG]   2026-10-03 11:11:46.118053 [PID:11248] [1] [ID:22] still running TestCases.Timeouttests after 5.0s
+[DEBUG]   2026-10-03 11:11:47.527581 [PID:11728] [2] [ID:23] still running TestCases.Webform after 5.0s
+[INFO]    2026-10-03 11:11:51.884351 [PID:11248] [1] [ID:22] PASSED TestCases.Timeouttests in 11.2 seconds
+[INFO]    2026-10-03 11:11:52.093796 [PID:11960] [0] [ID:21] PASSED TestCases.Test in 30.3 seconds
+[INFO]    2026-10-03 11:11:54.941649 [PID:11728] [2] [ID:23] PASSED TestCases.Webform in 12.9 seconds
+[INFO]    24 tests, 24 passed, 0 failed, 0 skipped.
+[INFO]    ===================================================
+[INFO]    Output:  C:\Users\anil.k\PycharmProjects\Auto\output.xml
+[INFO]    Log:     C:\Users\anil.k\PycharmProjects\Auto\log.html
+[INFO]    Report:  C:\Users\anil.k\PycharmProjects\Auto\report.html
+[DEBUG]   Finalizing Pabot execution...
+[DEBUG]   Stopping PabotLib process
+[INFO]    Robot Framework remote server at 127.0.0.1:8270 stopped.
+[DEBUG]   PabotLib process stopped
+[INFO]    Total testing: 7 minutes 30.20 seconds
+[INFO]    Elapsed time:  2 minutes 33.70 seconds
+[DEBUG]   Logs flushed successfully.

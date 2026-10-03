@@ -1,0 +1,28 @@
+datasources:5de4abc9a2ee867182d75fa11c074e97945797ab
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:d97acb040f77233a898b3a46742a55fda884714f
+--suite Suites.CaptureScreen
+--suite Suites.CloseAll
+--suite Suites.Draganddrop
+--suite Suites.Dropdownbutton
+--suite Suites.Dropdownbutton1
+--suite Suites.Dropdowns
+--suite Suites.ForLoopDemo
+--suite Suites.GetAllLinks
+--suite Suites.Implicitwait
+--suite Suites.Inputbox
+--suite Suites.Keyboardandmouseinput
+--suite Suites.MouseOperations
+--suite Suites.NavigationalKeywords
+--suite Suites.POM
+--suite Suites.Radiobuttons
+--suite Suites.Registration
+--suite Suites.Regpom
+--suite Suites.ScrollingPage
+--suite Suites.SpeedTests
+--suite Suites.TC1
+--suite Suites.TC2
+--suite Suites.Test
+--suite Suites.Timeouttests
+--suite Suites.Webform

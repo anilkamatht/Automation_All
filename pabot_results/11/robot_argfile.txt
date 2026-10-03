@@ -1,0 +1,16 @@
+--suite TestCases.MouseOperations
+--variable CALLER_ID:5f9160953e9a45f49073d1c25f960896
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:11
+--variable PABOTLASTLEVEL:TestCases.MouseOperations
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\11
+--consolecolors off
+--consolemarkers off
+TestCases\

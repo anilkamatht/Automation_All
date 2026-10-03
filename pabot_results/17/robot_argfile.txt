@@ -1,0 +1,16 @@
+--suite TestCases.ScrollingPage
+--variable CALLER_ID:acddd3d25a4549209466625a2095b575
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:17
+--variable PABOTLASTLEVEL:TestCases.ScrollingPage
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\17
+--consolecolors off
+--consolemarkers off
+TestCases\

@@ -1,0 +1,16 @@
+--suite TestCases.Dropdownbutton
+--variable CALLER_ID:44aa3539f62b4ca592fbdd05e14bdbfa
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:0
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:3
+--variable PABOTLASTLEVEL:TestCases.Dropdownbutton
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\3
+--consolecolors off
+--consolemarkers off
+TestCases\

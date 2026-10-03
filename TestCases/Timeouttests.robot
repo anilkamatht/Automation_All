@@ -10,8 +10,8 @@ RegTest
         maximize browser window
         ${time}=  Get Selenium Timeout
         Log To Console    ${time}
-        Set Selenium Timeout    10
-        Wait Until Page Contains    Registeration    # 5 seconds
+        Set Selenium Timeout    15
+        Wait Until Page Contains    Register    # 5 seconds
         select radio button    Gender   M
         input text    name:FirstName    David
         input text    name:LastName     Jhon

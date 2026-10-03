@@ -18,7 +18,7 @@ RegTest
         Log To Console    ${implicittime}
 
         select radio button    Gender   M
-        input text    name:FirstName1    David
+        input text    name:FirstName    David
         input text    name:LastName     Jhon
         input text    name:Email    anhc@gmail.com
         input text    name:Password    davidjhon

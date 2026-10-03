@@ -1,0 +1,16 @@
+--suite TestCases.Implicitwait
+--variable CALLER_ID:34da04b65b954fb0a0c18fe82c63a077
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:8
+--variable PABOTLASTLEVEL:TestCases.Implicitwait
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\8
+--consolecolors off
+--consolemarkers off
+TestCases\

@@ -1,0 +1,16 @@
+--suite TestCases.SpeedTests
+--variable CALLER_ID:e8a726007e68403aa1f0f598577ce5d2
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:0
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:18
+--variable PABOTLASTLEVEL:TestCases.SpeedTests
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\18
+--consolecolors off
+--consolemarkers off
+TestCases\

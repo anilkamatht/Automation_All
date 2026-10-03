@@ -1,0 +1,16 @@
+--suite TestCases.Keyboardandmouseinput
+--variable CALLER_ID:e066719b69254974bfa118b7eec7730b
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:1
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:10
+--variable PABOTLASTLEVEL:TestCases.Keyboardandmouseinput
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\10
+--consolecolors off
+--consolemarkers off
+TestCases\

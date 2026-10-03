@@ -1,0 +1,16 @@
+--suite TestCases.Radiobuttons
+--variable CALLER_ID:38361c37840b41fb95260295a39fa7b8
+--variable PABOTLIBURI:127.0.0.1:8270
+--variable PABOTEXECUTIONPOOLID:2
+--variable PABOTISLASTEXECUTIONINPOOL:0
+--variable PABOTNUMBEROFPROCESSES:3
+--variable PABOTQUEUEINDEX:14
+--variable PABOTLASTLEVEL:TestCases.Radiobuttons
+--output output.xml
+--log NONE
+--report NONE
+--xunit NONE
+--outputdir .\pabot_results\14
+--consolecolors off
+--consolemarkers off
+TestCases\
